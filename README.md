@@ -1,4 +1,4 @@
-<img src="https://s3.ap-northeast-2.amazonaws.com/mygit01/Fter2.jpg" width="800px" height="280px"></img>
+<img src="https://s3.ap-northeast-2.amazonaws.com/mygit01/Fter2.jpg" width="800px" height="200px"></img>
 
 
 
