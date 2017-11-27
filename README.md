@@ -1,5 +1,4 @@
-![](https://s3.ap-northeast-2.amazonaws.com/mygit01/Fter2.png)
-
+<img src="https://s3.ap-northeast-2.amazonaws.com/mygit01/Fter2.png"></img>
 # 기관
 ◎ IT벤처 창업동아리 S.O.P.T
 # 프로젝트명
