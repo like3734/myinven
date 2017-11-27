@@ -1,5 +1,4 @@
-!
-[](https://s3.ap-northeast-2.amazonaws.com/mygit01/Fter2.jpg)
+(https://s3.ap-northeast-2.amazonaws.com/mygit01/Fter2.jpg)
 
 
 
