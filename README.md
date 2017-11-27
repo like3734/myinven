@@ -1,3 +1,2 @@
-# myinven
-S.O.P.T
+# S.O.P.T
 Fter
