@@ -1,4 +1,4 @@
-<img src="https://s3.ap-northeast-2.amazonaws.com/mygit01/ikarus+logo.png" width="7600px" height="280px"></img>
+<img src="https://s3.ap-northeast-2.amazonaws.com/mygit01/ikarus+logo.png" width="4800px" height="240px"></img>
 # 기관
 + iKooB
 # 프로젝트명
