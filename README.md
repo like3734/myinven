@@ -1,10 +1,10 @@
-<img src="https://s3.ap-northeast-2.amazonaws.com/mygit01/ikarus+logo.png"></img>
+<img src="https://s3.ap-northeast-2.amazonaws.com/mygit01/ikarus+logo.png" width="7600px" height="280px"></img>
 # 기관
 + iKooB
 # 프로젝트명
 + medical iKARUS
 # 프로젝트소개
-+ 의학자료를관리하는관리자페이지구축
++ 의학자료를 관리하는 관리자페이지 구축
 # 개발기간
 + 2017.08.20 ~ 2017.10.10
 # 개발인원
