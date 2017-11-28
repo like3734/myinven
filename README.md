@@ -1,4 +1,4 @@
-<img src="https://s3.ap-northeast-2.amazonaws.com/mygit01/Fter+logo.png"></img>
+<img src="https://s3.ap-northeast-2.amazonaws.com/mygit01/tabtile+logo.png"></img>
 # 기관
 + 한이음 ICT
 # 프로젝트명
@@ -17,7 +17,6 @@
 + Unity
 # 담당기술
 1. 게임 algorithm 구현
-2. 간단한UI작업
+2. 간단한 UI작업
 # 결과물
-1. 플레이스토어Tabtile
-<img src="https://s3.ap-northeast-2.amazonaws.com/mygit01/Fter3.jpg"></img>
+1. 플레이스토어 : Tabtile
