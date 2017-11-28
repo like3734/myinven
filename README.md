@@ -16,3 +16,5 @@
 # 개발환경
 + Node.js Mysql AWS Slack Github
 # 담당기술
+
+<img src="https://s3.ap-northeast-2.amazonaws.com/mygit01/Fter3.jpg"></img>
