@@ -1,2 +1,1 @@
-# myinven
-jongin's inventory
+# Welcome to jongin's inventory
