@@ -41,4 +41,3 @@
 9. [알람기능]
  - 각 사용자는 알람을 받을 수 있다. 해당 경우로는 본인의 게시물에 좋아요,북마크 또는 댓글이 달렸을 때 알람이 가도록 기능 구현
 
-<img src="https://s3.ap-northeast-2.amazonaws.com/mygit01/Fter3.jpg"></img>
