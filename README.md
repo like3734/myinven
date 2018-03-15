@@ -1,5 +1,14 @@
 # Portfolio
 
+## 이름
+- 서종인
+## 학교
+- 홍익대학교
+## 경력
+- IT벤처 창업동아리 S.O.P.T 20기수료
+- 5TH UNITED HACKATHON naver api track 수상
+- ICT 프로보노멘토링참여
+- 
 
 
 ## Branch
