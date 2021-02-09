@@ -1,5 +1,10 @@
 # Portfolio Branch
 
+<h1>2019 ~</h1>
+#### <a href="https://github.com/like3734/myinven/tree/lgcns">LG CNS</a>
+- LG CNS
+
+<h1>~ 2018</h1>
 #### <a href="https://github.com/like3734/myinven/tree/Fter">Fter</a>
 - IT벤처 창업동아리 S.O.P.T
 #### <a href="https://github.com/like3734/myinven/tree/47s">47s</a>
