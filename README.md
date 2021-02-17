@@ -2,7 +2,7 @@
 
 <h1>2019~</h1>
 
-#### <a href="https://github.com/like3734/myinven/tree/lgcns">LG CNS</a>
+LG CNS
 
 <h1>~2018</h1>
 
